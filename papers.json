@@ -1,0 +1,924 @@
+{
+  "www.theadobepress.com": {
+    "url": "http://www.theadobepress.com/news/",
+    "newspaper": "Adobe Press",
+    "county_id": "San Luis Obispo"
+  },
+  "ledger-dispatch.com": {
+    "url": "http://ledger-dispatch.com/",
+    "newspaper": "Amador Ledger Dispatch",
+    "county_id": "Amador"
+  },
+  "theava.com": {
+    "url": "http://theava.com/",
+    "newspaper": "Anderson Advertiser - Mendo",
+    "county_id": "Mendocino"
+  },
+  "www.andersonvalleypost.com": {
+    "url": "http://www.andersonvalleypost.com/",
+    "newspaper": "Anderson Post - Shasta",
+    "county_id": "Shasta"
+  },
+  "www.auburnjournal.com": {
+    "url": "http://www.auburnjournal.com/",
+    "newspaper": "Auburn Journal",
+    "county_id": "Placer"
+  },
+  "www.bakersfield.com": {
+    "url": "http://www.bakersfield.com/local/",
+    "newspaper": "Bakersfield Californian",
+    "county_id": "Kern"
+  },
+  "www.ridgecrestca.com": {
+    "url": "http://www.ridgecrestca.com/",
+    "newspaper": "Ridgecrest Daily Independent",
+    "county_id": "Kern"
+  },
+  "benitolink.com": {
+    "url": "http://benitolink.com/",
+    "newspaper": "BenitoLink",
+    "county_id": "San Benito"
+  },
+  "www.csac.counties.org": {
+    "url": "http://www.csac.counties.org/blogs/",
+    "newspaper": "CSAC County Voice Blog",
+    "county_id": "All"
+  },
+  "www.agalert.com": {
+    "url": "http://www.agalert.com/",
+    "newspaper": "California AgAlert",
+    "county_id": "All"
+  },
+  "www.calaverasenterprise.com": {
+    "url": "http://www.calaverasenterprise.com/news/",
+    "newspaper": "Calaveras Enterprise",
+    "county_id": "Calaveras"
+  },
+  "www.cfbf.com": {
+    "url": "http://www.cfbf.com/",
+    "newspaper": "California Farm Bureau Federation",
+    "county_id": "All"
+  },
+  "www.californiahealthline.org": {
+    "url": "http://www.californiahealthline.org/",
+    "newspaper": "California Healthline",
+    "county_id": "All"
+  },
+  "californiawatch.org": {
+    "url": "http://californiawatch.org/",
+    "newspaper": "California Watch",
+    "county_id": "all"
+  },
+  "www.calmatters.org": {
+    "url": "http://www.calmatters.org/",
+    "newspaper": "CalMatters",
+    "county_id": "All"
+  },
+  "centerforhealthreporting.org": {
+    "url": "http://centerforhealthreporting.org/",
+    "newspaper": "Center for Health Reporting - USC",
+    "county_id": "All"
+  },
+  "cironline.org": {
+    "url": "http://cironline.org/investigations",
+    "newspaper": "Center for Investigative Reporting",
+    "county_id": "All"
+  },
+  "chronicleofsocialchange.org": {
+    "url": "https://chronicleofsocialchange.org",
+    "newspaper": "Chronicle of Social Change",
+    "county_id": "Los Angeles"
+  },
+  "www.centralvalleybusinesstimes.com": {
+    "url": "http://www.centralvalleybusinesstimes.com/",
+    "newspaper": "Central Valley Business Times",
+    "county_id": "Tulare"
+  },
+  "www.chicoer.com": {
+    "url": "http://www.chicoer.com/newshome",
+    "newspaper": "Chico Enterprise-Record",
+    "county_id": "Butte"
+  },
+  "www.colusa-sun-herald.com": {
+    "url": "http://www.colusa-sun-herald.com/",
+    "newspaper": "Colusa Sun Herald",
+    "county_id": "Colusa"
+  },
+  "www.contracostatimes.com": {
+    "url": "http://www.contracostatimes.com/mld/cctimes/news/local/",
+    "newspaper": "Contra Costa Times",
+    "county_id": "Contra Costa"
+  },
+  "www.corning-observer.com": {
+    "url": "http://www.corning-observer.com/",
+    "newspaper": "Corning Observer",
+    "county_id": "Tehama"
+  },
+  "www.triplicate.com": {
+    "url": "http://www.triplicate.com/news/section.cfm?cid=1",
+    "newspaper": "Crescent City Daily Triplicate",
+    "county_id": "Del Norte"
+  },
+  "www.dailybreeze.com": {
+    "url": "http://www.dailybreeze.com/news",
+    "newspaper": "Daily Breeze",
+    "county_id": "Los Angeles"
+  },
+  "www.thedailysound.com": {
+    "url": "http://www.thedailysound.com/News/",
+    "newspaper": "Daily Sound",
+    "county_id": "Santa Barbara"
+  },
+  "www.eastbayexpress.com": {
+    "url": "http://www.eastbayexpress.com",
+    "newspaper": "East Bay Express",
+    "county_id": "Alameda"
+  },
+  "www.independentnews.com": {
+    "url": "http://www.independentnews.com/",
+    "newspaper": "Independent News",
+    "county_id": "Alameda"
+  },
+  "edhtelegraph.com": {
+    "url": "http://edhtelegraph.com/category/local/browse.html",
+    "newspaper": "El Dorado Hills Telegraph",
+    "county_id": "El Dorado"
+  },
+  "www.villagelife.com": {
+    "url": "http://www.villagelife.com/category/news/",
+    "newspaper": "Village Life - El Dorado",
+    "county_id": "El Dorado"
+  },
+  "www.times-standard.com": {
+    "url": "http://www.times-standard.com/local",
+    "newspaper": "Eureka Times-Standard",
+    "county_id": "Humboldt"
+  },
+  "www.dailyrepublic.com": {
+    "url": "http://www.dailyrepublic.com/",
+    "newspaper": "Fairfield Daily Republic",
+    "county_id": "Solano"
+  },
+  "www.fresnobee.com": {
+    "url": "http://www.fresnobee.com/local/v-indexlist/",
+    "newspaper": "Fresno Bee",
+    "county_id": "Fresno"
+  },
+  "tcnpress.com": {
+    "url": "http://tcnpress.com/",
+    "newspaper": "Glenn County Transcript",
+    "county_id": "Glenn"
+  },
+  "www.theunion.com": {
+    "url": "http://www.theunion.com/SECTION/",
+    "ParentProfile": "1053",
+    "profile": "1001",
+    "newspaper": "Grass Valley Union",
+    "county_id": "Nevada"
+  },
+  "www.hmbreview.com": {
+    "url": "http://www.hmbreview.com/",
+    "newspaper": "Half Moon Bay Review",
+    "county_id": "San Mateo "
+  },
+  "www.hanfordsentinel.com": {
+    "url": "http://www.hanfordsentinel.com/news",
+    "newspaper": "Hanford Sentinel",
+    "county_id": "Kings"
+  },
+  "www.freelancenews.com": {
+    "url": "http://www.freelancenews.com/",
+    "newspaper": "Hollister Free Lance",
+    "county_id": "San Benito"
+  },
+  "www.ivpressonline.com": {
+    "url": "http://www.ivpressonline.com/news/",
+    "newspaper": "Imperial Valley Press",
+    "county_id": "Imperial"
+  },
+  "www.inyoregister.com": {
+    "url": "http://www.inyoregister.com/news/",
+    "newspaper": "Inyo Register",
+    "county_id": "Inyo"
+  },
+  "abclocal.go.com": {
+    "url": "http://abclocal.go.com/kgo",
+    "newspaper": "KGO - ABC - SF",
+    "county_id": "San Francisco"
+  },
+  "www.kalw.org": {
+    "url": "http://www.kalw.org/",
+    "newspaper": "KALW Radio News",
+    "county_id": "all"
+  },
+  "kcbx.org": {
+    "url": "http://kcbx.org/",
+    "newspaper": "KCBX San Luis Obispo",
+    "county_id": "San Luis Obispo"
+  },
+  "www.kcet.org": {
+    "url": "http://www.kcet.org/",
+    "newspaper": "KCET - SoCal Public TV",
+    "county_id": "Los Angeles"
+  },
+  "www.kcra.com": {
+    "url": "http://www.kcra.com/news/",
+    "newspaper": "KCRA - Sacramento Placer",
+    "county_id": "Placer"
+  },
+  "www.turnto23.com": {
+    "url": "http://www.turnto23.com/news/",
+    "newspaper": "KERO - ABC - Bakersfield",
+    "county_id": "Kern"
+  },
+  "www.kesq.com": {
+    "url": "http://www.kesq.com/",
+    "newspaper": "KESQ.com Palm Springs - Riverside Cty",
+    "county_id": "Riverside"
+  },
+  "www.keyt.com": {
+    "url": "http://www.keyt.com/",
+    "newspaper": "KEYT - Santa Barbara",
+    "county_id": "Santa Barbara"
+  },
+  "www.cbs8.com": {
+    "url": "http://www.cbs8.com/",
+    "newspaper": "KFMB-TV - CBS8-San Diego",
+    "county_id": "San Diego"
+  },
+  "www.kionrightnow.com": {
+    "url": "http://www.kionrightnow.com/",
+    "newspaper": "KION - Monterey",
+    "county_id": "Monterey"
+  },
+  "abc30.com": {
+    "url": "http://abc30.com/fresno-county/",
+    "newspaper": "KFSN ABC30 - Fresno County",
+    "county_id": "Fresno"
+  },
+  "kiem-tv.com": {
+    "url": "http://kiem-tv.com/",
+    "newspaper": "KIEM Del Norte",
+    "county_id": "Del Norte"
+  },
+  "www.nbclosangeles.com": {
+    "url": "http://www.nbclosangeles.com/news/",
+    "newspaper": "KNBC Los Angeles",
+    "county_id": "Los Angeles"
+  },
+  "www.nbcsandiego.com": {
+    "url": "http://www.nbcsandiego.com/",
+    "newspaper": "KNSD NBC San Diego",
+    "county_id": "San Diego"
+  },
+  "www.kpbs.org": {
+    "url": "http://www.kpbs.org/news/government_politics",
+    "newspaper": "KPBS - San Diego",
+    "county_id": "San Diego"
+  },
+  "www.scpr.org": {
+    "url": "http://www.scpr.org/",
+    "newspaper": "KPCC Southern CA Public Radio",
+    "county_id": "Los Angeles"
+  },
+  "www.kpsplocal2.com": {
+    "url": "http://www.kpsplocal2.com/",
+    "newspaper": "KPSP Local 2 - Riverside County",
+    "county_id": "Riverside"
+  },
+  "www.kqed.org": {
+    "url": "http://www.kqed.org/",
+    "newspaper": "KQED - SanFrancisco",
+    "county_id": "San Francisco"
+  },
+  "www.krcrtv.com": {
+    "url": "http://www.krcrtv.com/news/local",
+    "newspaper": "KRCR TV ABC 7 - Shasta",
+    "county_id": "Shasta"
+  },
+  "www.ksbw.com": {
+    "url": "http://www.ksbw.com/news/index.html",
+    "newspaper": "KSBW News 8 -Santa Cruz",
+    "county_id": "Santa Cruz"
+  },
+  "www.ksby.com": {
+    "url": "http://www.ksby.com/category/288960/news",
+    "newspaper": "KSBY Channel 6 - SLO Santa Barb County",
+    "county_id": "San Luis Obispo"
+  },
+  "www.ktvu.com": {
+    "url": "http://www.ktvu.com/s/news/",
+    "newspaper": "KTVU SF-Marin-Sonoma",
+    "county_id": "San Francisco"
+  },
+  "www.kusi.com": {
+    "url": "http://www.kusi.com/",
+    "newspaper": "KUSI - San Diego",
+    "county_id": "San Diego"
+  },
+  "kvpr.org": {
+    "url": "http://kvpr.org/",
+    "newspaper": "KVPR - Central Valley Radio",
+    "county_id": "Stanislaus"
+  },
+  "www.capradio.org": {
+    "url": "http://www.capradio.org/articles/",
+    "newspaper": "KXJZ - Sacramento Public Radio",
+    "county_id": "Sacramento"
+  },
+  "kxoradio.com": {
+    "url": "http://kxoradio.com/content/category/1/1/2/",
+    "newspaper": "KXO Radio AM1230 - IMPERIAL CTY",
+    "county_id": "Imperial"
+  },
+  "www.news10.net": {
+    "url": "http://www.news10.net/",
+    "newspaper": "KXTV Channel 10 Sacramento",
+    "county_id": "Sacramento"
+  },
+  "lakeconews.com": {
+    "url": "http://lakeconews.com/",
+    "newspaper": "Lake County News",
+    "county_id": "Lake"
+  },
+  "www.record-bee.com": {
+    "url": "http://www.record-bee.com/",
+    "newspaper": "Lake County Record-Bee",
+    "county_id": "Lake"
+  },
+  "www.lassennews.com": {
+    "url": "http://www.lassennews.com/",
+    "newspaper": "Lassen County News",
+    "county_id": "Lassen"
+  },
+  "www.lodinews.com": {
+    "url": "http://www.lodinews.com/news/",
+    "newspaper": "Lodi News-Sentinel",
+    "county_id": "San Joaquin"
+  },
+  "www.lompocrecord.com": {
+    "url": "http://www.lompocrecord.com/",
+    "newspaper": "Lompoc Record",
+    "county_id": "Santa Barbara"
+  },
+  "www.presstelegram.com": {
+    "url": "http://www.presstelegram.com/",
+    "newspaper": "Long Beach Press Telegram",
+    "county_id": "Los Angeles"
+  },
+  "www.pasadenastarnews.com": {
+    "url": "http://www.pasadenastarnews.com/Stories/0,1413,206%7E22097%7E,00.html?",
+    "newspaper": "Pasadena Star News",
+    "county_id": "Los Angeles"
+  },
+  "www2.sgvtribune.com": {
+    "url": "http://www2.sgvtribune.com/",
+    "newspaper": "San Gabriel Valley Tribune",
+    "county_id": "Los Angeles"
+  },
+  "www.dailynews.com": {
+    "url": "http://www.dailynews.com/news",
+    "newspaper": "Los Angeles Daily News",
+    "county_id": "Los Angeles"
+  },
+  "www.latimes.com": {
+    "url": "http://www.latimes.com/news/local/",
+    "newspaper": "Los Angeles Times",
+    "county_id": "Los Angeles"
+  },
+  "lostcoastoutpost.com": {
+    "url": "http://lostcoastoutpost.com/",
+    "newspaper": "Lost Coast Outpost - Humboldt",
+    "county_id": "Humboldt"
+  },
+  "www.maderatribune.com": {
+    "url": "http://www.maderatribune.com/news/",
+    "newspaper": "Madera Tribune",
+    "county_id": "Madera"
+  },
+  "www.marinij.com": {
+    "url": "http://www.marinij.com/marin",
+    "newspaper": "Marin Independent Journal",
+    "county_id": "Marin"
+  },
+  "www.mariposagazette.com": {
+    "url": "http://www.mariposagazette.com/current/Local_News",
+    "newspaper": "Mariposa Gazette",
+    "county_id": "Mariposa"
+  },
+  "www.marketplace.org": {
+    "url": "http://www.marketplace.org/",
+    "newspaper": "Marketplace - NPR",
+    "county_id": "All"
+  },
+  "www.appeal-democrat.com": {
+    "url": "http://www.appeal-democrat.com/news",
+    "newspaper": "Marysville Appeal-Democrat",
+    "county_id": "Yuba"
+  },
+  "www.mercedsunstar.com": {
+    "url": "http://www.mercedsunstar.com/167",
+    "newspaper": "Merced Sun-Star",
+    "county_id": "Merced"
+  },
+  "www.modbee.com": {
+    "url": "http://www.modbee.com/local/",
+    "newspaper": "Modesto Bee",
+    "county_id": "Stanislaus"
+  },
+  "www.modocrecord.com": {
+    "url": "http://www.modocrecord.com/news.html",
+    "newspaper": "Modoc Record",
+    "county_id": "Modoc"
+  },
+  "www.montereyherald.com": {
+    "url": "http://www.montereyherald.com/mld/montereyherald/news/local/",
+    "newspaper": "Monterey County Herald",
+    "county_id": "Monterey"
+  },
+  "www.mtshastanews.com": {
+    "url": "http://www.mtshastanews.com/news/",
+    "newspaper": "Mount Shasta News",
+    "county_id": "Siskiyou"
+  },
+  "www.mv-voice.com": {
+    "url": "http://www.mv-voice.com",
+    "newspaper": "Mountain View Voice",
+    "county_id": "Santa Clara"
+  },
+  "www.mymotherlode.com": {
+    "url": "http://www.mymotherlode.com/news/local",
+    "newspaper": "My Mother Lode",
+    "county_id": "Tuolumne"
+  },
+  "www.napavalleyregister.com": {
+    "url": "http://www.napavalleyregister.com/news/",
+    "newspaper": "Napa Valley Register",
+    "county_id": "Napa"
+  },
+  "www.newtimesslo.com": {
+    "url": "http://www.newtimesslo.com/news/",
+    "newspaper": "New Times San Luis Obispo",
+    "county_id": "San Luis Obispo"
+  },
+  "www.noozhawk.com": {
+    "url": "http://www.noozhawk.com/local_news",
+    "newspaper": "Noozhawk",
+    "county_id": "Santa Barbara"
+  },
+  "www.northbaybusinessjournal.com": {
+    "url": "http://www.northbaybusinessjournal.com/",
+    "newspaper": "North Bay Business Journal",
+    "county_id": "Sonoma"
+  },
+  "www.northcoastjournal.com": {
+    "url": "http://www.northcoastjournal.com/Welcome.html",
+    "newspaper": "North Coast Journal Weekly",
+    "county_id": "Humboldt"
+  },
+  "www.nctimes.com": {
+    "url": "http://www.nctimes.com/",
+    "newspaper": "North County Times",
+    "county_id": "San Diego"
+  },
+  "www.novatoadvance.com": {
+    "url": "http://www.novatoadvance.com/news/",
+    "newspaper": "Novato Advance",
+    "county_id": "Marin"
+  },
+  "www.insidebayarea.com": {
+    "url": "http://www.insidebayarea.com/trivalleyherald/localnews/",
+    "newspaper": "Tri-Valley Herald",
+    "county_id": "Contra Costa"
+  },
+  "www.ocregister.com": {
+    "url": "http://www.ocregister.com/ocregister/sections/news/local/",
+    "newspaper": "Orange County Register",
+    "county_id": "Orange"
+  },
+  "www.orovillemr.com": {
+    "url": "http://www.orovillemr.com/news",
+    "newspaper": "Oroville Mercury Register",
+    "county_id": "Butte"
+  },
+  "www.psmag.com": {
+    "url": "http://www.psmag.com/",
+    "newspaper": "Pacific Standard Magazine",
+    "county_id": "all"
+  },
+  "www.paloaltodailynews.com": {
+    "url": "http://www.paloaltodailynews.com/",
+    "newspaper": "Palo Alto Daily News",
+    "county_id": "Santa Clara"
+  },
+  "www.paloaltoonline.com": {
+    "url": "http://www.paloaltoonline.com/",
+    "newspaper": "Palo Alto Online Weekly",
+    "county_id": "Santa Clara"
+  },
+  "peninsulapress.com": {
+    "url": "http://peninsulapress.com/",
+    "newspaper": "Peninsula Press",
+    "county_id": "San Mateo"
+  },
+  "placercountyonline.com": {
+    "url": "http://placercountyonline.com/",
+    "newspaper": "Placer County Online",
+    "county_id": "Placer"
+  },
+  "www.mtdemocrat.com": {
+    "url": "http://www.mtdemocrat.com/",
+    "newspaper": "Placerville Mountain Democrat",
+    "county_id": "El Dorado"
+  },
+  "www.pleasantonweekly.com": {
+    "url": "http://www.pleasantonweekly.com/news/",
+    "newspaper": "Pleasanton Weekly",
+    "county_id": "Alameda"
+  },
+  "www.plumasnews.com": {
+    "url": "http://www.plumasnews.com/",
+    "newspaper": "Plumas County News",
+    "county_id": "Plumas"
+  },
+  "projects.propublica.org": {
+    "url": "https://projects.propublica.org/",
+    "newspaper": "Pro Publica",
+    "county_id": "all"
+  },
+  "www.publicceo.com": {
+    "url": "http://www.publicceo.com/",
+    "newspaper": "Public CEO",
+    "county_id": "All"
+  },
+  "www.recorderonline.com": {
+    "url": "http://www.recorderonline.com/",
+    "newspaper": "Recorder Online",
+    "county_id": "Tulare"
+  },
+  "www.redbluffdailynews.com": {
+    "url": "http://www.redbluffdailynews.com/news",
+    "newspaper": "Red Bluff Daily News",
+    "county_id": "Tehama"
+  },
+  "www.redding.com": {
+    "url": "http://www.redding.com/news/news/local/",
+    "newspaper": "Redding Record Searchlight",
+    "county_id": "Shasta"
+  },
+  "richmondconfidential.org": {
+    "url": "http://richmondconfidential.org/",
+    "newspaper": "Richmond Confidential",
+    "county_id": "Contra Costa"
+  },
+  "richmondstandard.com": {
+    "url": "http://richmondstandard.com/",
+    "newspaper": "Richmond Standard",
+    "county_id": "Contra Costa"
+  },
+  "www.rocklintoday.com": {
+    "url": "http://www.rocklintoday.com/",
+    "newspaper": "Rocklin Today",
+    "county_id": "Placer"
+  },
+  "www.thepresstribune.com": {
+    "url": "http://www.thepresstribune.com/FormLayout.asp?formcall=30",
+    "newspaper": "Roseville Press-Tribune",
+    "county_id": "Placer"
+  },
+  "www.rtumble.com": {
+    "url": "http://www.rtumble.com/",
+    "newspaper": "Rough and Tumble",
+    "county_id": "all"
+  },
+  "www.sacbee.com": {
+    "url": "http://www.sacbee.com/302/index.html",
+    "newspaper": "Sacramento Bee",
+    "county_id": "Sacramento"
+  },
+  "www.sacramentopress.com": {
+    "url": "http://www.sacramentopress.com/tag/politics",
+    "newspaper": "Sacramento Press",
+    "county_id": "Sacramento"
+  },
+  "www.californianonline.com": {
+    "url": "http://www.californianonline.com/apps/pbcs.dll/section?Category=NEWS01",
+    "newspaper": "Salinas Californian",
+    "county_id": "Monterey"
+  },
+  "www.signonsandiego.com": {
+    "url": "http://www.signonsandiego.com/news/metro/index.html",
+    "newspaper": "San Diego Union-Tribune",
+    "county_id": "San Diego"
+  },
+  "eastcountymagazine.org": {
+    "url": "http://eastcountymagazine.org/",
+    "newspaper": "East County Magazine",
+    "county_id": "San Diego"
+  },
+  "www.sfgate.com": {
+    "url": "http://www.sfgate.com/chronicle/",
+    "newspaper": "San Francisco Chronicle",
+    "county_id": "San Francisco"
+  },
+  "www.sfexaminer.com": {
+    "url": "http://www.sfexaminer.com/local",
+    "newspaper": "San Francisco Examiner",
+    "county_id": "San Francisco"
+  },
+  "sfist.com": {
+    "url": "http://sfist.com/",
+    "newspaper": "SFist",
+    "county_id": "San Francisco"
+  },
+  "www.mercurynews.com": {
+    "url": "http://www.mercurynews.com/news",
+    "newspaper": "San Jose Mercury News",
+    "county_id": "Santa Clara"
+  },
+  "www.sanluisobispo.com": {
+    "url": "http://www.sanluisobispo.com/news/local/",
+    "newspaper": "San Luis Obispo Tribune",
+    "county_id": "San Luis Obispo"
+  },
+  "www.smdailyjournal.com": {
+    "url": "http://www.smdailyjournal.com/",
+    "newspaper": "San Mateo Daily Journal",
+    "county_id": "San Mateo"
+  },
+  "www.independent.com": {
+    "url": "http://www.independent.com/news/news/",
+    "newspaper": "Santa Barbara Independent",
+    "county_id": "Santa Barbara"
+  },
+  "www.santacruzsentinel.com": {
+    "url": "http://www.santacruzsentinel.com/",
+    "newspaper": "Santa Cruz Sentinel",
+    "county_id": "Santa Cruz"
+  },
+  "www.santamariatimes.com": {
+    "url": "http://www.santamariatimes.com/",
+    "newspaper": "Santa Maria Times",
+    "county_id": "Santa Barbara"
+  },
+  "www.santapaulatimes.com": {
+    "url": "http://www.santapaulatimes.com/",
+    "newspaper": "Santa Paula Times",
+    "county_id": "Ventura"
+  },
+  "www1.pressdemocrat.com": {
+    "url": "http://www1.pressdemocrat.com/section/news",
+    "newspaper": "Santa Rosa Press Democrat",
+    "county_id": "Sonoma"
+  },
+  "www.syvnews.com": {
+    "url": "http://www.syvnews.com/",
+    "newspaper": "Santa Ynez Valley News",
+    "county_id": "Santa Barbara"
+  },
+  "goldrushcam.com": {
+    "url": "http://goldrushcam.com/sierrasuntimes/",
+    "newspaper": "Sierra Sun Times - Mariposa",
+    "county_id": "Mariposa"
+  },
+  "www.sierrastar.com": {
+    "url": "http://www.sierrastar.com/",
+    "newspaper": "Sierra Star",
+    "county_id": "Madera"
+  },
+  "www.sierrawave.net": {
+    "url": "http://www.sierrawave.net/",
+    "newspaper": "Sierra Wave",
+    "county_id": "Mono"
+  },
+  "www.siskiyoudaily.com": {
+    "url": "http://www.siskiyoudaily.com/",
+    "newspaper": "Siskiyou Daily News",
+    "county_id": "Siskiyou"
+  },
+  "www.sonomanews.com": {
+    "url": "http://www.sonomanews.com/news/",
+    "newspaper": "Sonoma Index-Tribune",
+    "county_id": "Sonoma"
+  },
+  "www.uniondemocrat.com": {
+    "url": "http://www.uniondemocrat.com/News/Local-News/",
+    "newspaper": "Sonora Union Democrat",
+    "county_id": "Calaveras"
+  },
+  "www.recordnet.com": {
+    "url": "http://www.recordnet.com/apps/pbcs.dll/section?Category=A_NEWS",
+    "newspaper": "Stockton Record",
+    "county_id": "San Joaquin"
+  },
+  "www.tahoedailytribune.com": {
+    "url": "http://www.tahoedailytribune.com/apps/pbcs.dll/frontpage",
+    "newspaper": "Tahoe Daily Tribune",
+    "county_id": "El Dorado"
+  },
+  "www.myvalleynews.com": {
+    "url": "http://www.myvalleynews.com/",
+    "newspaper": "Temecula Valley News",
+    "county_id": "Riverside"
+  },
+  "www.mpacorn.com": {
+    "url": "http://www.mpacorn.com/",
+    "newspaper": "The Acorn",
+    "county_id": "Ventura"
+  },
+  "thesheetnews.com": {
+    "url": "http://thesheetnews.com/archives/category/mammothnews",
+    "newspaper": "The Sheet - Mono County",
+    "county_id": "Mono"
+  },
+  "tracypress.com": {
+    "url": "http://tracypress.com/",
+    "newspaper": "Tracy Press",
+    "county_id": "San Joaquin"
+  },
+  "www.trinityjournal.com": {
+    "url": "http://www.trinityjournal.com/Current/News/",
+    "newspaper": "Trinity Journal",
+    "county_id": "Trinity"
+  },
+  "www.tulareadvanceregister.com": {
+    "url": "http://www.tulareadvanceregister.com/news/index.html",
+    "newspaper": "Tulare Advance-Register",
+    "county_id": "Tulare"
+  },
+  "www.fsgnews.com": {
+    "url": "http://www.fsgnews.com/articles/news/",
+    "newspaper": "Foothill Sun Gazette - Tulare",
+    "county_id": "Tulare"
+  },
+  "www.ukiahdailyjournal.com": {
+    "url": "http://www.ukiahdailyjournal.com/",
+    "newspaper": "Ukiah Daily Journal",
+    "county_id": "Mendocino"
+  },
+  "www.thereporter.com": {
+    "url": "http://www.thereporter.com/",
+    "newspaper": "Vacaville Reporter",
+    "county_id": "Solano"
+  },
+  "www.timesheraldonline.com": {
+    "url": "http://www.timesheraldonline.com/todaysnews",
+    "newspaper": "Vallejo Times Herald",
+    "county_id": "Solano"
+  },
+  "www.vcreporter.com": {
+    "url": "http://www.vcreporter.com/",
+    "newspaper": "VC Reporter",
+    "county_id": "Ventura"
+  },
+  "www.vcstar.com": {
+    "url": "http://www.vcstar.com/",
+    "newspaper": "Ventura County Star",
+    "county_id": "Ventura"
+  },
+  "www.visaliatimesdelta.com": {
+    "url": "http://www.visaliatimesdelta.com/apps/pbcs.dll/section?Category=NEWS01",
+    "newspaper": "Visalia Times-Delta",
+    "county_id": "Tulare"
+  },
+  "voiceofoc.org": {
+    "url": "http://voiceofoc.org/countywide/county_government/",
+    "newspaper": "Voice of OC",
+    "county_id": "Orange"
+  },
+  "www.voiceofsandiego.org": {
+    "url": "http://www.voiceofsandiego.org/",
+    "newspaper": "Voice of San Diego",
+    "county_id": "San Diego"
+  },
+  "www.willitsnews.com": {
+    "url": "http://www.willitsnews.com/localnews",
+    "newspaper": "Willits News",
+    "county_id": "Mendocino"
+  },
+  "www.willows-journal.com": {
+    "url": "http://www.willows-journal.com/sections/local-news/",
+    "newspaper": "Willows Journal",
+    "county_id": "Glenn"
+  },
+  "www.dailydemocrat.com": {
+    "url": "http://www.dailydemocrat.com/news",
+    "newspaper": "Woodland Daily Democrat",
+    "county_id": "Yolo"
+  },
+  "www.yubanet.com": {
+    "url": "http://www.yubanet.com/",
+    "newspaper": "YubaNet News",
+    "county_id": "Nevada"
+  },
+  "www.zocalopublicsquare.org": {
+    "url": "http://www.zocalopublicsquare.org/",
+    "newspaper": "Zocalo Public Square",
+    "county_id": "all"
+  },
+  "www.alpenhornnews.com": {
+    "url": "http://www.alpenhornnews.com/",
+    "newspaper": "Alpenhorn News",
+    "county_id": "San Bernardino"
+  },
+  "www.bigbeargrizzly.net": {
+    "url": "http://www.bigbeargrizzly.net/",
+    "newspaper": "Big Bear Grizzly",
+    "county_id": "San Bernardino"
+  },
+  "www.chinohills.com": {
+    "url": "http://www.chinohills.com/",
+    "newspaper": "Chino Hills",
+    "county_id": "San Bernardino"
+  },
+  "www.crestlinecourier-news.com": {
+    "url": "http://www.crestlinecourier-news.com/news/",
+    "newspaper": "Crestline Courier-News",
+    "county_id": "San Bernardino"
+  },
+  "www.desertdispatch.com": {
+    "url": "http://www.desertdispatch.com/sections/news/",
+    "newspaper": "Desert Dispatch",
+    "county_id": "San Bernardino"
+  },
+  "www.thedesertsun.com": {
+    "url": "http://www.thedesertsun.com/apps/pbcs.dll/section?Category=news01",
+    "newspaper": "Desert Sun",
+    "county_id": "Riverside"
+  },
+  "www.fontanaheraldnews.com": {
+    "url": "http://www.fontanaheraldnews.com/news/",
+    "newspaper": "Fontana Herald News",
+    "county_id": "San Bernardino"
+  },
+  "www.hesperiastar.com": {
+    "url": "http://www.hesperiastar.com/",
+    "newspaper": "Hesperia Star",
+    "county_id": "San Bernardino"
+  },
+  "hidesertstar.com": {
+    "url": "http://hidesertstar.com/news/",
+    "newspaper": "Hi-Desert Star",
+    "county_id": "San Bernardino"
+  },
+  "www.highlandnews.net": {
+    "url": "http://www.highlandnews.net/",
+    "newspaper": "Highland News",
+    "county_id": "San Bernardino"
+  },
+  "www.dailybulletin.com": {
+    "url": "http://www.dailybulletin.com/news",
+    "newspaper": "Inland Valley Daily Bulletin",
+    "county_id": "San Bernardino"
+  },
+  "www.mountain-news.com": {
+    "url": "http://www.mountain-news.com/news/",
+    "newspaper": "Lake Arrowhead Mountain News",
+    "county_id": "San Bernardino"
+  },
+  "www.mohavedailynews.com": {
+    "url": "http://www.mohavedailynews.com/needles_desert_star/news/local_news/",
+    "newspaper": "Needles Desert Star",
+    "county_id": "San Bernardino"
+  },
+  "www.redlandsdailyfacts.com": {
+    "url": "http://www.redlandsdailyfacts.com/sanbernardinocounty/",
+    "newspaper": "Redlands Daily Facts",
+    "county_id": "San Bernardino"
+  },
+  "www.rimoftheworld.net": {
+    "url": "http://www.rimoftheworld.net/",
+    "newspaper": "Rim of the World.Net",
+    "county_id": "San Bernardino"
+  },
+  "newsroom.ucr.edu": {
+    "url": "http://newsroom.ucr.edu/",
+    "newspaper": "UC Riverside News Press",
+    "county_id": "San Bernardino"
+  },
+  "www.pe.com": {
+    "url": "http://www.pe.com/localnews/sanbernardino/",
+    "newspaper": "Riverside Press-Enterprise",
+    "county_id": "Riverside"
+  },
+  "www.swrnn.com": {
+    "url": "http://www.swrnn.com/",
+    "newspaper": "Southwest Riverside News Network",
+    "county_id": "Riverside"
+  },
+  "www.sbsun.com": {
+    "url": "http://www.sbsun.com/news",
+    "newspaper": "San Bernardino County Sun",
+    "county_id": "San Bernardino"
+  },
+  "www.westsidestorynewspaper.com": {
+    "url": "http://www.westsidestorynewspaper.com/",
+    "newspaper": "West Side Story Newspaper",
+    "county_id": "San Bernardino"
+  },
+  "www.vvdailypress.com": {
+    "url": "http://www.vvdailypress.com/sections/local-news/",
+    "newspaper": "Victorville Daily Press",
+    "county_id": "San Bernardino"
+  }
+}

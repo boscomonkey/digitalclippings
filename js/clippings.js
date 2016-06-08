@@ -30,9 +30,26 @@ function setElementWithQuery(id) {
     elt.val(param);
 }
 
-$(function() {
+// select the option given its value
+//
+function selectOption(elementId, matchValue) {
+    // cycle through newspaper options and found a match with the text
+    var selection = $(elementId)[0];
+    console.log("selection:", selection);
+    console.log("selection.options:", selection.options);
+    console.log("selection.options.length:", selection.options.length);
+    for (var idx = 0; idx < selection.options.length ; idx++) {
+        if (selection.options[idx].text == matchValue) {
+            console.log("Found", elementId, "option:", matchValue, "index:", idx);
 
-    console.log("Hi, Hils!");
+            selection.options[idx].selected = true;
+
+            break;
+        }
+    }
+}
+
+$(function() {
 
     setElementWithQuery("url")
     setElementWithQuery("title")
@@ -41,4 +58,26 @@ $(function() {
     // get current date
     var dated = $("#dated");
     dated.val(moment().format("YYYY-MM-DD"));
+
+    // try to set newspaper and county by looking up host in url
+    var host = getParameterByName("host");
+    console.log("host:", host);
+    $.get(
+        document.location.origin + "/papers.json",
+        function(table) {
+            // lookup table maps hosts to url, newspaper, and county_id
+            var found = table[host];
+            if (found) {
+                console.log("url:", found.url);
+                console.log("newspaper:", found.newspaper);
+                console.log("county_id:", found.county_id);
+
+                // cycle through newspaper options and select if matches
+                selectOption("#newspaper", found.newspaper);
+
+                // cycle through county IDs
+                selectOption("#county_id", found.county_id);
+            }
+        }
+    );
 });
