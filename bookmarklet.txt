@@ -1,0 +1,1 @@
+javascript:window.open("http://localhost:8000/clippingpanel.php.html?url=" + document.location.href+"&description=" + window.getSelection().toString() + "&title=" + (document.getElementsByTagName("title").length > 0 ? document.getElementsByTagName("title")[0].text : ""), null, "width=800,height=800")

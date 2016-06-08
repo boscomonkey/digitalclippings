@@ -3,7 +3,11 @@
   <meta name="generator" content=
   "HTML Tidy for Mac OS X (vers 31 October 2006 - Apple Inc. build 15.17), see www.w3.org">
 
-  <title></title>
+  <style>
+    select:invalid { color: gray; }
+  </style>
+
+  <title>Smart Digital Clippings</title>
 </head>
 
 <body>
@@ -13,7 +17,7 @@
         <th align="right"><font face="verdana" size="2">Web
         Address</font></th>
 
-        <td><input type="text" name="url" size="60" maxlength="255"
+        <td><input id="url" type="text" name="url" size="90" maxlength="255"
         value=""></td>
       </tr>
 
@@ -22,6 +26,10 @@
         "2">Newspaper</font></th>
 
         <td><select name='newspaper'>
+          <option value='' disabled selected hidden>
+            Select a newspaper...
+          </option>
+
           <option value='Adobe Press'>
             Adobe Press
           </option>
@@ -366,7 +374,7 @@
             Fort Bragg Advocate
           </option>
 
-          <option selected="true" value='Fresno Bee'>
+          <option value='Fresno Bee'>
             Fresno Bee
           </option>
 
@@ -1368,7 +1376,7 @@
         <th align="right"><font face="verdana" size="2">Article
         Title</font></th>
 
-        <td><input type="text" name="title" size="60" maxlength=
+        <td><input type="text" id="title" name="title" size="90" maxlength=
         "255" value=""></td>
       </tr>
 
@@ -1377,7 +1385,7 @@
         "2">Description</font></th>
 
         <td>
-        <textarea cols="55" rows="3" wrap="soft" name=
+        <textarea cols="55" rows="15" wrap="soft" id="description" name=
         "description">
 </textarea></td>
       </tr>
@@ -2995,6 +3003,10 @@
         "2">County</font></th>
 
         <td><select name="county" size="1">
+          <option value="" disabled selected hidden>
+            Select a county...
+          </option>
+
           <option value='Alameda'>
             Alameda
           </option>
@@ -3167,7 +3179,7 @@
             Tehama
           </option>
 
-          <option selected="true" value='Fresno'>
+          <option value='Fresno'>
             Fresno
           </option>
 
@@ -3237,15 +3249,15 @@
         <th align="right"><font face="verdana" size=
         "2">Dated</font></th>
 
-        <td><input type="text" name="dated" size="40" maxlength=
-        "255" value="2016-06-05"></td>
+        <td><input type="text" id="dated" name="dated" size="40" maxlength=
+        "255"></td>
       </tr>
 
       <tr>
         <th align="right"><font face="verdana" size="2">Display
         Order (big #s higher)</font></th>
 
-        <td><input type="text" name="display" size="2" maxlength=
+        <td><input type="text" name="display" size="3" maxlength=
         "10" value="100"> <font face="verdana" size="2">with type
         (i-City, o-County, s-School) <input type="text" name="type"
         size="2" maxlength="10" value="o"></font></td>
@@ -3264,4 +3276,9 @@
     </center>
   </form>
 </body>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript" src="js/moment.min.js"></script>
+<script type="text/javascript" src="js/clippings.js"></script>
+
 </html>
