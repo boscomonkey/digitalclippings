@@ -181,13 +181,13 @@
     "newspaper": "Half Moon Bay Review",
     "county_id": "San Mateo "
   },
-  "www.hanfordsentinel.com": {
-    "url": "http://www.hanfordsentinel.com/news",
+  "hanfordsentinel.com": {
+    "url": "http://hanfordsentinel.com/news",
     "newspaper": "Hanford Sentinel",
     "county_id": "Kings"
   },
-  "www.freelancenews.com": {
-    "url": "http://www.freelancenews.com/",
+  "www.sanbenitocountytoday.com": {
+    "url": "http://www.sanbenitocountytoday.com/",
     "newspaper": "Hollister Free Lance",
     "county_id": "San Benito"
   },
