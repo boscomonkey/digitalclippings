@@ -25,9 +25,6 @@ function getParameterByName(name, url) {
 // populate an input with the query param of the same name
 //
 function setElementWithQuery(id, useHtmlEntity) {
-    console.log("***", "id", id);
-    console.log("***", "useHtmlEntity", useHtmlEntity);
-
     var elt = $("#" + id);
     var param = getParameterByName(id);
 
@@ -60,9 +57,9 @@ function selectOption(elementId, matchValue) {
 
 $(function() {
 
-    setElementWithQuery("url")
-    setElementWithQuery("title")
-    setElementWithQuery("description", true)
+    setElementWithQuery("url");
+    setElementWithQuery("title", true);
+    setElementWithQuery("description", true);
 
     // get current date
     var dated = $("#dated");
