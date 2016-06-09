@@ -806,8 +806,8 @@
     "newspaper": "Woodland Daily Democrat",
     "county_id": "Yolo"
   },
-  "www.yubanet.com": {
-    "url": "http://www.yubanet.com/",
+  "yubanet.com": {
+    "url": "http://yubanet.com/",
     "newspaper": "YubaNet News",
     "county_id": "Nevada"
   },
