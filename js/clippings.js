@@ -24,9 +24,18 @@ function getParameterByName(name, url) {
 
 // populate an input with the query param of the same name
 //
-function setElementWithQuery(id) {
+function setElementWithQuery(id, useHtmlEntity) {
+    console.log("***", "id", id);
+    console.log("***", "useHtmlEntity", useHtmlEntity);
+
     var elt = $("#" + id);
     var param = getParameterByName(id);
+
+    if (useHtmlEntity) {
+        param = he.encode(param, {
+            'useNamedReferences': true
+        });
+    }
     elt.val(param);
 }
 
@@ -53,7 +62,7 @@ $(function() {
 
     setElementWithQuery("url")
     setElementWithQuery("title")
-    setElementWithQuery("description")
+    setElementWithQuery("description", true)
 
     // get current date
     var dated = $("#dated");
