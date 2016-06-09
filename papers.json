@@ -606,8 +606,8 @@
     "newspaper": "Salinas Californian",
     "county_id": "Monterey"
   },
-  "www.signonsandiego.com": {
-    "url": "http://www.signonsandiego.com/news/metro/index.html",
+  "www.sandiegouniontribune.com": {
+    "url": "http://www.sandiegouniontribune.com/news/",
     "newspaper": "San Diego Union-Tribune",
     "county_id": "San Diego"
   },
