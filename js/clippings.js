@@ -74,7 +74,6 @@ $(function() {
             // lookup table maps hosts to url, newspaper, and county_id
             var found = table[host];
             if (found) {
-                console.log("url:", found.url);
                 console.log("newspaper:", found.newspaper);
                 console.log("county_id:", found.county_id);
 
