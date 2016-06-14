@@ -16,6 +16,7 @@ class JavascriptProxy
     query = URI(url).query
     params = CGI::parse(query)
     params.delete 'amp'
+    params.delete 'url'
 
     # sanity check each param to make sure it's an Array and has only one element
     params.each_pair {|key, val|
