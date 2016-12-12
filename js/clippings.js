@@ -83,6 +83,9 @@ $(function() {
                 // cycle through county IDs
                 selectOption("#county_id", found.county_id);
             }
+            else {
+                console.log("host not found in table");
+            }
         }
     );
 });
