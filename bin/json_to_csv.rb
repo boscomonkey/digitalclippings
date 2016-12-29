@@ -54,7 +54,7 @@ if __FILE__ == $0
   }
 
   # check for reserved subkey
-  reserved_key = 'key'
+  reserved_key = ''
   if subkeys.include?(reserved_key)
     STDERR << <<EOF
 ERROR: reserved keyword "#{reserved_key}" is already in use

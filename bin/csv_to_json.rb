@@ -25,7 +25,7 @@ if __FILE__ == $0
       entry[key] = row[key]
     }
 
-    key = entry.delete 'key'
+    key = entry.delete csv.headers.first
     obj[key] = entry
   }
 
