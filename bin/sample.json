@@ -1,0 +1,17 @@
+{
+  "ledger-dispatch.com": {
+    "county_id": "Amador",
+    "newspaper": "Amador Ledger Dispatch",
+    "url": "http://ledger-dispatch.com/"
+  },
+  "theava.com": {
+    "county_id": "Mendocino",
+    "newspaper": "Anderson Advertiser - Mendo",
+    "url": "http://theava.com/"
+  },
+  "www.theadobepress.com": {
+    "county_id": "San Luis Obispo",
+    "newspaper": "Adobe Press",
+    "url": "http://www.theadobepress.com/news/"
+  }
+}
