@@ -7,6 +7,10 @@
     "county_id": "San Francisco",
     "newspaper": "KGO - ABC - SF"
   },
+  "almanacnews.com": {
+    "county_id": "San Mateo",
+    "newspaper": "Almanac News"
+  },
   "bakersfieldnow.com": {
     "county_id": "Kern",
     "newspaper": "Bakersfield Now"
@@ -14,6 +18,10 @@
   "benitolink.com": {
     "county_id": "San Benito",
     "newspaper": "BenitoLink"
+  },
+  "californiahealthline.org": {
+    "county_id": "All",
+    "newspaper": "California Healthline"
   },
   "californiawatch.org": {
     "county_id": "all",
@@ -39,13 +47,9 @@
     "county_id": "All",
     "newspaper": "Center for Investigative Reporting"
   },
-  "www.citylab.com": {
-    "county_id": "All",
-    "newspaper": "City Lab"
-  },
-  "www.citywatchla.com": {
-    "county_id": "Los Angeles",
-    "newspaper": "CityWatchLA" 
+  "dailynexus.com": {
+    "county_id": "Santa Barbara",
+    "newspaper": "Daily Nexus"
   },
   "eastcountymagazine.org": {
     "county_id": "San Diego",
@@ -55,13 +59,17 @@
     "county_id": "El Dorado",
     "newspaper": "El Dorado Hills Telegraph"
   },
+  "edsource.org": {
+    "county_id": "All",
+    "newspaper": "Edsource"
+  },
+  "fox5sandiego.com": {
+    "county_id": "San Diego",
+    "newspaper": "KSWB - Fox News San Diego"
+  },
   "goldrushcam.com": {
     "county_id": "Mariposa",
     "newspaper": "Sierra Sun Times - Mariposa"
- },
-  "www.govtech.com": {
-    "county_id": "All",
-    "newspaper": "Government Technology"
   },
   "hanfordsentinel.com": {
     "county_id": "Kings",
@@ -73,7 +81,7 @@
   },
   "inewsource.org": {
     "county_id": "San Diego",
-    "newspaper": "iNewSource"   
+    "newspaper": "iNewSource"
   },
   "kcbx.org": {
     "county_id": "San Luis Obispo",
@@ -83,6 +91,10 @@
     "county_id": "Del Norte",
     "newspaper": "KIEM Del Norte"
   },
+  "kron4.com": {
+    "county_id": "San Francisco",
+    "newspaper": "KRON 4 - SF"
+  },
   "kvpr.org": {
     "county_id": "Stanislaus",
     "newspaper": "KVPR - Central Valley Radio"
@@ -90,6 +102,10 @@
   "kxoradio.com": {
     "county_id": "Imperial",
     "newspaper": "KXO Radio AM1230 - IMPERIAL CTY"
+  },
+  "la.streetsblog.org": {
+    "county_id": "Los Angeles",
+    "newspaper": "LA Streetsblog"
   },
   "ledger-dispatch.com": {
     "county_id": "Amador",
@@ -102,6 +118,10 @@
   "lostcoastoutpost.com": {
     "county_id": "Humboldt",
     "newspaper": "Lost Coast Outpost - Humboldt"
+  },
+  "martinezgazette.com": {
+    "county_id": "Contra Costa",
+    "newspaper": "Martinez Gazette"
   },
   "missionlocal.org": {
     "county_id": "San Francisco",
@@ -123,9 +143,9 @@
     "county_id": "San Bernardino",
     "newspaper": "UC Riverside News Press"
   },
-    "www.oc-breeze.com": {
-    "county_id": "Orange",
-    "newspaper": "OC Breeze"
+  "paloaltoonline.com": {
+    "county_id": "Santa Clara",
+    "newspaper": "Palo Alto Online Weekly"
   },
   "peninsulapress.com": {
     "county_id": "San Mateo",
@@ -135,9 +155,17 @@
     "county_id": "Placer",
     "newspaper": "Placer County Online"
   },
+  "postnewsgroup.com": {
+    "county_id": "Alameda",
+    "newspaper": "Post News Group"
+  },
   "projects.propublica.org": {
     "county_id": "all",
     "newspaper": "Pro Publica"
+  },
+  "radio.krcb.org": {
+    "county_id": "Sonoma",
+    "newspaper": "KRCB - Sonoma Public Radio"
   },
   "richmondconfidential.org": {
     "county_id": "Contra Costa",
@@ -150,6 +178,10 @@
   "santamariatimes.com": {
     "county_id": "Santa Barbara",
     "newspaper": "Santa Maria Times"
+  },
+  "sf.streetsblog.org": {
+    "county_id": "San Francisco",
+    "newspaper": "SF Streetsblog"
   },
   "sfist.com": {
     "county_id": "San Francisco",
@@ -166,6 +198,10 @@
   "thesheetnews.com": {
     "county_id": "Mono",
     "newspaper": "The Sheet - Mono County"
+  },
+  "timesofsandiego.com": {
+    "county_id": "San Diego",
+    "newspaper": "Times of San Diego"
   },
   "tracypress.com": {
     "county_id": "San Joaquin",
@@ -186,10 +222,6 @@
   "www.agalert.com": {
     "county_id": "All",
     "newspaper": "California AgAlert"
-  },
-  "almanacnews.com": {
-    "county_id": "San Mateo",
-    "newspaper": "Almanac News"
   },
   "www.alpenhornnews.com": {
     "county_id": "San Bernardino",
@@ -219,10 +251,6 @@
     "county_id": "Calaveras",
     "newspaper": "Calaveras Enterprise"
   },
-  "californiahealthline.org": {
-    "county_id": "All",
-    "newspaper": "California Healthline"
-  },
   "www.capradio.org": {
     "county_id": "Sacramento",
     "newspaper": "KXJZ - Sacramento Public Radio"
@@ -246,6 +274,14 @@
   "www.chinohills.com": {
     "county_id": "San Bernardino",
     "newspaper": "Chino Hills"
+  },
+  "www.citylab.com": {
+    "county_id": "All",
+    "newspaper": "City Lab"
+  },
+  "www.citywatchla.com": {
+    "county_id": "Los Angeles",
+    "newspaper": "CityWatchLA"
   },
   "www.colusa-sun-herald.com": {
     "county_id": "Colusa",
@@ -291,14 +327,6 @@
     "county_id": "Solano",
     "newspaper": "Fairfield Daily Republic"
   },
-  "dailynexus.com": {
-    "county_id": "Santa Barbara",
-    "newspaper": "Daily Nexus"
-  },
-  "www.latimes.com/socal/daily-pilot": {
-    "county_id": "Orange",
-    "newspaper": "Daily Pilot"    
-  },
   "www.davisenterprise.com": {
     "county_id": "Yolo",
     "newspaper": "Davis Enterprise"
@@ -323,13 +351,13 @@
     "county_id": "Contra Costa",
     "newspaper": "Contra Costa Times"
   },
-    "edsource.org": {
-    "county_id": "All",
-    "newspaper": "Edsource"
-  },
   "www.fontanaheraldnews.com": {
     "county_id": "San Bernardino",
     "newspaper": "Fontana Herald News"
+  },
+  "www.foxandhoundsdaily.com": {
+    "county_id": "All",
+    "newspaper": "Fox and Hounds Daily"
   },
   "www.fresnobee.com": {
     "county_id": "Fresno",
@@ -339,13 +367,13 @@
     "county_id": "Tulare",
     "newspaper": "Foothill Sun Gazette - Tulare"
   },
-  "www.foxandhoundsdaily.com": {
-    "county_id": "All",
-    "newspaper": "Fox and Hounds Daily"
-  },
   "www.gilroydispatch.com": {
     "county_id": "Santa Clara",
     "newspaper": "Gilroy Dispatch"
+  },
+  "www.govtech.com": {
+    "county_id": "All",
+    "newspaper": "Government Technology"
   },
   "www.hesperiastar.com": {
     "county_id": "San Bernardino",
@@ -358,6 +386,10 @@
   "www.hmbreview.com": {
     "county_id": "San Mateo",
     "newspaper": "Half Moon Bay Review"
+  },
+  "www.imperialvalleynews.com": {
+    "county_id": "Imperial",
+    "newspaper": "Imperial Valley News"
   },
   "www.independent.com": {
     "county_id": "Santa Barbara",
@@ -379,14 +411,6 @@
     "county_id": "Imperial",
     "newspaper": "Imperial Valley Press"
   },
-   "www.imperialvalleynews.com": {
-    "county_id": "Imperial",
-    "newspaper": "Imperial Valley News"
-  },
-   "www.kenwoodpress.com": {
-    "county_id": "Sonoma",
-    "newspaper": "Kenwood Press"
-  },
   "www.kalw.org": {
     "county_id": "all",
     "newspaper": "KALW Radio News"
@@ -398,6 +422,10 @@
   "www.kcra.com": {
     "county_id": "Placer",
     "newspaper": "KCRA - Sacramento Placer"
+  },
+  "www.kenwoodpress.com": {
+    "county_id": "Sonoma",
+    "newspaper": "Kenwood Press"
   },
   "www.kesq.com": {
     "county_id": "Riverside",
@@ -419,17 +447,9 @@
     "county_id": "Riverside",
     "newspaper": "KPSP Local 2 - Riverside County"
   },
-  "radio.krcb.org": {
-    "county_id": "Sonoma",
-    "newspaper": "KRCB - Sonoma Public Radio"
-  },
   "www.krcrtv.com": {
     "county_id": "Shasta",
     "newspaper": "KRCR TV ABC 7 - Shasta"
-  },
-  "kron4.com": {
-    "county_id": "San Francisco",
-    "newspaper": "KRON 4 - SF"
   },
   "www.ksbw.com": {
     "county_id": "Santa Cruz",
@@ -438,10 +458,6 @@
   "www.ksby.com": {
     "county_id": "San Luis Obispo",
     "newspaper": "KSBY Channel 6 - SLO Santa Barb County"
-  },
-    "fox5sandiego.com": {
-    "county_id": "San Diego",
-    "newspaper": "KSWB - Fox News San Diego"
   },
   "www.ktvu.com": {
     "county_id": "San Francisco",
@@ -467,13 +483,13 @@
     "county_id": "Los Angeles",
     "newspaper": "Los Angeles Times"
   },
+  "www.latimes.com/socal/daily-pilot": {
+    "county_id": "Orange",
+    "newspaper": "Daily Pilot"
+  },
   "www.laweekly.com": {
     "county_id": "Los Angeles",
     "newspaper": "LA Weekly"
-  },
-  "la.streetsblog.org": {
-    "county_id": "Los Angeles",
-    "newspaper": "LA Streetsblog"
   },
   "www.lodinews.com": {
     "county_id": "San Joaquin",
@@ -502,10 +518,6 @@
   "www.marketplace.org": {
     "county_id": "All",
     "newspaper": "Marketplace - NPR"
-  },
-  "martinezgazette.com": {
-    "county_id": "Contra Costa",
-    "newspaper": "Martinez Gazette"
   },
   "www.mercedcountytimes.net": {
     "county_id": "Merced",
@@ -607,6 +619,10 @@
     "county_id": "Alameda",
     "newspaper": "Oakland North"
   },
+  "www.oc-breeze.com": {
+    "county_id": "Orange",
+    "newspaper": "OC Breeze"
+  },
   "www.ocregister.com": {
     "county_id": "Orange",
     "newspaper": "Orange County Register"
@@ -618,10 +634,6 @@
   "www.pacbiztimes.com": {
     "county_id": "San Luis Obispo",
     "newspaper": "Pacific Coast Business Times"
-  },
-  "paloaltoonline.com": {
-    "county_id": "Santa Clara",
-    "newspaper": "Palo Alto Online Weekly"
   },
   "www.pasadenastarnews.com": {
     "county_id": "Los Angeles",
@@ -646,10 +658,6 @@
   "www.plumasnews.com": {
     "county_id": "Plumas",
     "newspaper": "Plumas County News"
-  },
-  "postnewsgroup.com": {
-    "county_id": "Alameda",
-    "newspaper": "Post News Group"
   },
   "www.pressdemocrat.com": {
     "county_id": "Sonoma",
@@ -815,13 +823,9 @@
     "county_id": "Sonoma",
     "newspaper": "Sonoma Index-Tribune"
   },
-  "sf.streetsblog.org": {
-    "county_id": "San Francisco",
-    "newspaper": "SF Streetsblog"
-   },
   "www.surfsantamonica.com": {
     "county_id": "Los Angeles",
-    "newspaper": "Santa Monica Lookout"   
+    "newspaper": "Santa Monica Lookout"
   },
   "www.swrnn.com": {
     "county_id": "Riverside",
@@ -866,10 +870,6 @@
   "www.theunion.com": {
     "county_id": "Nevada",
     "newspaper": "Grass Valley Union"
-  },
-  "timesofsandiego.com": {
-    "county_id": "San Diego",
-    "newspaper": "Times of San Diego"    
   },
   "www.times-standard.com": {
     "county_id": "Humboldt",
@@ -923,7 +923,7 @@
     "county_id": "Ventura",
     "newspaper": "Ventura County Star"
   },
-    "www.vidaenelvalle.com": {
+  "www.vidaenelvalle.com": {
     "county_id": "San Francisco",
     "newspaper": "Vida En La Valle - SF"
   },
@@ -949,7 +949,7 @@
   },
   "www.whittierdailynews.com": {
     "county_id": "Los Angeles",
-    "newspaper": "Whittier Daily News"  
+    "newspaper": "Whittier Daily News"
   },
   "www.willitsnews.com": {
     "county_id": "Mendocino",
